@@ -11,7 +11,7 @@
 -- work function          
   1 Sort number - ใช้เรียงเลขที่      
   2 Convert letters to Ascii - ใช้แปลงอักษรเป็นเลข Ascii
-  3 Auto Obfuscate file - ระบบ Obfuscate ไฟล์อัตโนมัติ (.exe)
+  3 Auto Obfuscate file - ระบบ Obfuscate ไฟล์อัตโนมัติ (.exe & .py)
   4 Auto join zoom meeting - เข้า Zoom meeting อัตโนมัติ ตามเวลาที่ตั้ง
   5 Auto send email - ระบบส่ง Email อัตโนมัติ
 -- troll function
