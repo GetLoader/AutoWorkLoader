@@ -8,16 +8,14 @@
 
 >> วิธีใช้งานโปรแกรม Auto Work <<
 
--- work function          
+-- function          
   1 Sort number - ใช้เรียงเลขที่      
   2 Auto create channel - สร้าง Channel ใน Discord อัตโนมัติ
   3 Auto Obfuscate file - ระบบ Obfuscate ไฟล์อัตโนมัติ (.exe & .py)
   4 Auto join zoom meeting - เข้า Zoom meeting อัตโนมัติ ตามเวลาที่ตั้ง
   5 Auto send email - ระบบส่ง Email อัตโนมัติ
--- troll function
   6 Auto disconnect - ระบบตัดการเชื่อมต่ออัตโนมัติใน Discord (VC)
   7 Auto stealth ping - ระบบ Ping discord อัตโนมัติ (stealth)
--- game function
   8 Auto combo - ระบบสร้าง Account combo อัตโนมัติ
 -- commands
   new Get New Version! - ดาวน์โหลดโปรแกรมเวอร์ชั่นล่าสุด
