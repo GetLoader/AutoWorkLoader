@@ -8,7 +8,7 @@
 
 >> วิธีใช้งานโปรแกรม Auto Work <<
 
--- function          
+-- functions          
   1 Sort number - ใช้เรียงเลขที่      
   2 Auto create channel - สร้าง Channel ใน Discord อัตโนมัติ
   3 Auto Obfuscate file - ระบบ Obfuscate ไฟล์อัตโนมัติ (.exe & .py)
